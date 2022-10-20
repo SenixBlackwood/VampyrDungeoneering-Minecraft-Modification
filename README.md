@@ -24,3 +24,6 @@ However, be aware that every treasure has its cost, which in some cases may be y
 - added <b>ominous blood</b>
 - added <b>bottled ash</b>
 - added <b>travel anchor</b>
+
+## Requirements
+- Forge <b>OR</b> Fabric
