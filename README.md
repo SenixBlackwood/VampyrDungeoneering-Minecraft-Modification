@@ -21,6 +21,6 @@
 - added <b>darkstone block variants</b>
 - added <b>blightstone block variants</b>
 
-## 0.1
+## 0.1.0
 - added <b>ominous blood</b>
 - added <b>bottled ash</b>
