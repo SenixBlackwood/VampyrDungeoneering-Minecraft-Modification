@@ -1,6 +1,6 @@
 # Version Preview
 
-## 0.alpha (planned)
+## 0.alpha
 - added <b>analyst shard</b>
 - added <b>analyst</b>
 - added <b>analyst ore</b>
