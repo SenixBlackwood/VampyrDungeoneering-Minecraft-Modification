@@ -32,3 +32,13 @@
 - added <b>raw catalyst</b>
 - added <b>scroll</b>
 - added <b>travel anchor</b>
+
+### changes
+- added <b>advancements</b>
+- added <b>blocks</b>
+- added <b>creative tab</b>
+- added <b>items</b>
+
+- gave <b>the travel anchor a basic teleport utility</b>
+- gave <b>ores their respective loot tables</b>
+- made <b>the bottle of ominous blood drinkable</b>
