@@ -1,26 +1,34 @@
 # Version Preview
 
 ## 0.alpha
-- added <b>analyst shard</b>
-- added <b>analyst</b>
+
+### advancements
+- added <b>starting the adventure</b>
+
+### blocks
 - added <b>analyst ore</b>
-- added <b>deepslate analyst ore</b>
-- added <b>catalyst shard</b>
-- added <b>catalyst</b>
+- added <b>arcane table</b>
 - added <b>catalyst ore</b>
+- added <b>deepslate analyst ore</b>
 - added <b>deepslate catalyst ore</b>
-- added <b>scroll</b>
-- added <b>imbued scroll</b>
-- added <b>almanac</b>
-- added <b>darkstone</b>
-- added <b>blightstone</b>
-
-## 0.beta
-- added <b>powdered analyst</b>
 - added <b>travel anchor</b>
-- added <b>darkstone block variants</b>
-- added <b>blightstone block variants</b>
 
-## 0.1.0
-- added <b>ominous blood</b>
+### creative tab
+- added <b>vampyr dungeoneering</b>
+
+### items
+- added <b>almanac</b>
+- added <b>analyst</b>
+- added <b>analyst dust</b>
+- added <b>analyst shard</b>
+- added <b>bottle of ominous blood</b>
 - added <b>bottled ash</b>
+- added <b>catalyst</b>
+- added <b>catalyst shard</b>
+- added <b>draconic bat hide</b>
+- added <b>draconic bat hide armor</b>
+- added <b>imbued scroll</b>
+- added <b>raw analyst</b>
+- added <b>raw catalyst</b>
+- added <b>scroll</b>
+- added <b>travel anchor</b>
