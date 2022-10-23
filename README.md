@@ -1,11 +1,22 @@
-# Version Preview
+# Vampyr Dungeoneering
 
-## 0.alpha
+## Introduction
+Vampyr Dungeoneering is an alchemy and magic based mod where you as an explorer can find ancient ruins of a long lost civilization and its remnants. <br>
+As you progress you will find new, horrifying creatures, plunder ancient structures for loot and craft new gear to aid you on your quest to utilize the magic items you may find on your journey. <br>
+However, be aware that every treasure has its cost, which in some cases may be your life.
 
-### advancements
+## Requirements
+- Minecraft
+- Forge <b>OR</b> Fabric
+
+## Version Preview
+
+### 0.alpha
+
+#### advancements
 - added <b>starting the adventure</b>
 
-### blocks
+#### blocks
 - added <b>analyst ore</b>
 - added <b>arcane table</b>
 - added <b>catalyst ore</b>
@@ -13,10 +24,10 @@
 - added <b>deepslate catalyst ore</b>
 - added <b>travel anchor</b>
 
-### creative tab
+#### creative tab
 - added <b>vampyr dungeoneering</b>
 
-### items
+#### items
 - added <b>almanac</b>
 - added <b>analyst</b>
 - added <b>analyst dust</b>
@@ -33,7 +44,7 @@
 - added <b>scroll</b>
 - added <b>travel anchor</b>
 
-### changes
+#### changes
 - added <b>advancements</b>
 - added <b>blocks</b>
 - added <b>creative tab</b>
