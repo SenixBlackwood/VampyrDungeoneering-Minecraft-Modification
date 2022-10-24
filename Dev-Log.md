@@ -43,4 +43,5 @@
 
 - gave <b>the travel anchor a basic teleport utility</b>
 - gave <b>ores their respective loot tables</b>
+- gave <b>analyst dust a right-click function</b>
 - made <b>the bottle of ominous blood drinkable</b>
