@@ -1,4 +1,4 @@
-![Vampyr-Dungeoneering-Alpha](https://user-images.githubusercontent.com/104892059/197594653-8db7fb16-2013-4f5f-a64a-00d08ebc0b21.png)
+![Vampyr-Dungeoneering](https://user-images.githubusercontent.com/104892059/197594794-d91628b5-69ee-48d2-9f94-1a9fbac23251.png)
 
 ## Introduction
 Vampyr Dungeoneering is an alchemy and magic based mod where you as an explorer can find ancient ruins of a long lost civilization and its remnants. <br>
