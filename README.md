@@ -7,4 +7,4 @@ However, be aware that every treasure has its cost, which in some cases may be y
 
 ## Requirements
 - Minecraft
-- Forge <b>OR</b> Fabric
+- Forge
