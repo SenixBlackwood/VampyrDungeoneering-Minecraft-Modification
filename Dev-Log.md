@@ -4,6 +4,8 @@
 
 ### advancements
 - added <b>starting the adventure</b>
+- added <b>a lot to read</b>
+- added <b>better start studying</b>
 
 ### blocks
 - added <b>analyst ore</b>
@@ -43,5 +45,4 @@
 
 - gave <b>the travel anchor a basic teleport utility</b>
 - gave <b>ores their respective loot tables</b>
-- gave <b>analyst dust a right-click function</b>
 - made <b>the bottle of ominous blood drinkable</b>
