@@ -1,13 +1,11 @@
 # Dev-Log
 
-## Version Preview
+## 0.alpha
 
-### 0.alpha
-
-#### advancements
+### advancements
 - added <b>starting the adventure</b>
 
-#### blocks
+### blocks
 - added <b>analyst ore</b>
 - added <b>arcane table</b>
 - added <b>catalyst ore</b>
@@ -15,10 +13,10 @@
 - added <b>deepslate catalyst ore</b>
 - added <b>travel anchor</b>
 
-#### creative tab
+### creative tab
 - added <b>vampyr dungeoneering</b>
 
-#### items
+### items
 - added <b>almanac</b>
 - added <b>analyst</b>
 - added <b>analyst dust</b>
@@ -35,11 +33,13 @@
 - added <b>scroll</b>
 - added <b>travel anchor</b>
 
-#### changes
+### changes
 - added <b>advancements</b>
 - added <b>blocks</b>
 - added <b>creative tab</b>
 - added <b>items</b>
+
+<br>
 
 - gave <b>the travel anchor a basic teleport utility</b>
 - gave <b>ores their respective loot tables</b>
