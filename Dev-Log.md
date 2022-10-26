@@ -54,7 +54,6 @@
 - added <b>raw analyst</b>
 - added <b>raw catalyst</b>
 - added <b>scroll</b>
-- added <b>travel anchor</b>
 
 <hr>
 
