@@ -28,6 +28,7 @@
 - added <b>analyst ore</b>
 - added <b>arcane table</b>
 - added <b>catalyst ore</b>
+- added <b>cracked bone block</b>
 - added <b>deepslate analyst ore</b>
 - added <b>deepslate catalyst ore</b>
 - added <b>travel anchor</b>
@@ -48,6 +49,7 @@
 - added <b>bottled ash</b>
 - added <b>catalyst</b>
 - added <b>catalyst shard</b>
+- added <b>cracked bone</b>
 - added <b>draconic bat hide</b>
 - added <b>draconic bat hide armor</b>
 - added <b>imbued scroll</b>
