@@ -3,24 +3,42 @@
 ## 0.alpha
 
 ### Advancements: (on halt due to crashes)
-- added <b>starting the adventure</b>
+
+- added <b>Dungeoneering</b>
+
+#### Almanac
 - added <b>a lot to read</b>
 - added <b>better start studying</b>
-- added <b>animal handling</b>
-- added <b>a hairy situation</b>
-- added <b>a new set of armor</b>
-- added <b>a better alternative</b>
-- added <b>ore collector</b>
-- added <b>greater collection</b>
+- added <b>first pages</b>
+- added <b>tour guide</b>
+
+- added <b></b>
+
+#### Analyst
 - added <b>a dark turn</b>
 - added <b>powdered darkness</b>
+
+#### Catalyst
+- added <b>one interesting ore</b>
+- added <b>a catalyzing effect</b>
+- added <b>way too much energy</b>
+
+#### Ore
+- added <b>ore collector</b>
+- added <b>greater collection</b>
+
+#### Mob
+
+##### Draconic Bat
+- added <b></b>
+- added <b>a new set of armor</b>
+- added <b>a better alternative</b>
+
 - added <b>going even further beyond</b>
 - added <b>where are you going</b>
 - added <b>greater possibilities</b>
 - added <b>don't drink that</b>
 - added <b>blood infusion</b>
-- added <b>one interesting ore</b>
-- added <b>a catalyzing effect</b>
 
 <hr>
 
