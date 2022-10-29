@@ -2,14 +2,14 @@
 
 ## 0.alpha
 
-### Advancements:
+### Advancements: (on halt due to crashes)
 - added <b>starting the adventure</b>
 - added <b>a lot to read</b>
 - added <b>better start studying</b>
-- added <b>animal handling</b> (placeholder)
-- added <b>a hairy situation</b> (placeholder)
-- added <b>a new set of armor</b> (placeholder)
-- added <b>a better alternative</b> (placeholder)
+- added <b>animal handling</b>
+- added <b>a hairy situation</b>
+- added <b>a new set of armor</b>
+- added <b>a better alternative</b>
 - added <b>ore collector</b>
 - added <b>greater collection</b>
 - added <b>a dark turn</b>
