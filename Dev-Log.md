@@ -76,7 +76,7 @@
 - added <b>analyst</b>
 - added <b>analyst dust</b> (non functional)
 - added <b>analyst shard</b>
-- added <b>bottle of ominous blood</b> (not fully functional)
+- added <b>bottle of ominous blood</b>
 - added <b>bottled ash</b>
 - added <b>catalyst</b>
 - added <b>catalyst shard</b>
