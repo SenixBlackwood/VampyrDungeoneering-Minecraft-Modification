@@ -30,14 +30,27 @@
 #### Mob
 
 ##### Draconic Bat
-- added <b></b>
+- added <b>a hairy situation</b>
 - added <b>a new set of armor</b>
 - added <b>a better alternative</b>
 
+##### Vampire
+
+###### act 1
+- added <b>something ominous</b>
+- added <b>don't drink that</b>
+
+###### act 2
+- added <b>blood hunters</b>
+- added <b>temple guards</b>
+- added <b>enacting a new ruler</b>
+
+#### Travel Anchor
 - added <b>going even further beyond</b>
 - added <b>where are you going</b>
+
+#### Steel
 - added <b>greater possibilities</b>
-- added <b>don't drink that</b>
 - added <b>blood infusion</b>
 
 <hr>
