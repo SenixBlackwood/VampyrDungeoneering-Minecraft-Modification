@@ -4,54 +4,64 @@
 
 ### Advancements: (on halt due to crashes)
 
+#### Root:
 - added <b>Dungeoneering</b>
 
-#### Almanac
+#### Tree: Almanac
 - added <b>a lot to read</b>
 - added <b>better start studying</b>
 - added <b>first pages</b>
 - added <b>tour guide</b>
 
-- added <b></b>
-
-#### Analyst
+#### Tree: Analyst
 - added <b>a dark turn</b>
 - added <b>powdered darkness</b>
 
-#### Catalyst
+#### Tree: Catalyst
 - added <b>one interesting ore</b>
 - added <b>a catalyzing effect</b>
 - added <b>way too much energy</b>
 
-#### Ore
+#### Tree: Manufacturing
+
+##### Branch: Ore
 - added <b>ore collector</b>
 - added <b>greater collection</b>
 
-#### Mob
+##### Branch: Forge
+- added <b>an interesting concept</b>
+- added <b>master forge</b>
+- added <b>a new era of magic</b>
 
-##### Draconic Bat
+##### Branch: Steel
+- added <b>greater possibilities</b>
+- added <b>blood infusion</b>
+
+#### Tree: Mob
+
+##### Branch: Draconic Bat
 - added <b>a hairy situation</b>
 - added <b>a new set of armor</b>
 - added <b>a better alternative</b>
 
-##### Vampire
+##### Branch: Vampire
 
-###### act 1
+###### Twig: Blood
 - added <b>something ominous</b>
 - added <b>don't drink that</b>
 
-###### act 2
+###### Twig: Hunt
 - added <b>blood hunters</b>
 - added <b>temple guards</b>
 - added <b>enacting a new ruler</b>
 
-#### Travel Anchor
+#### Branch: Travel Anchor
 - added <b>going even further beyond</b>
 - added <b>where are you going</b>
 
-#### Steel
-- added <b>greater possibilities</b>
-- added <b>blood infusion</b>
+#### Branch: Wizardry
+- added <b>cryptic letters</b>
+- added <b>advanced abilities</b>
 
 <hr>
 
@@ -102,3 +112,4 @@
 - gave <b>the travel anchor a basic teleport utility</b>
 - gave <b>ores their respective loot tables</b>
 - made <b>the bottle of ominous blood drinkable</b>
+- made <b>recipes obtainable</b>
