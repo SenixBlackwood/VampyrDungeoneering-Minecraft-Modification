@@ -12,6 +12,8 @@ Overall, development-logs are a useful and informative resource for both develop
 ---
 - added Loottable: ```analyst_ore```
 - added Loottable: ```catalyst_ore```
+- added Loottable: ```deepslate_analyst_ore```
+- added Loottable: ```deepslate_catalyst_ore```
 ---
 - added Item: ```analyst```
 - added Item: ```analyst_dust```
