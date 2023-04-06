@@ -9,7 +9,6 @@ Overall, development-logs are a useful and informative resource for both develop
 - added Block: <b>Analyst Ore</b>
 - added Block: <b>Catalyst Ore</b>
 - added Block: <b>Cracked Bone Block</b>
-- added Block: <b>Travel Anchor</b>
 ---
 - added Loottable: <b>Analyst Ore</b>
 - added Loottable: <b>Catalyst Ore</b>
@@ -18,9 +17,17 @@ Overall, development-logs are a useful and informative resource for both develop
 - added Item: <b>Analyst Dust</b>
 - added Item: <b>Analyst Shard</b>
 - added Item: <b>Bottle Of Ominous Blood</b>
+- added Item: <b>Bottled Ash</b>
 - added Item: <b>Catalyst</b>
 - added Item: <b>Catalyst Shard</b>
 - added Item: <b>Cracked Bone</b>
 ---
 - added Recipe: <b>Analyst Dust From Analyst</b>
-- added Recipe: <b>Analyst Shard From Raw Analyst Ore</b>
+- added Recipe: <b>Analyst Shard From Blasting Raw Analyst Ore</b>
+- added Recipe: <b>Analyst Shard From Smelting Raw Analyst Ore</b>
+- added Recipe: <b>Catalyst Shard From Blasting Raw Catalyst Ore</b>
+- added Recipe: <b>Catalyst Shard From Smelting Raw Catalyst Ore</b>
+- added Recipe: <b>Cracked Bone from Smelting Bone</b>
+
+## Version 0.1.1
+- added 
