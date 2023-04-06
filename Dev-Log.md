@@ -6,7 +6,7 @@ They can also be a valuable tool for developers to reflect on their progress and
 Overall, development-logs are a useful and informative resource for both developers and players alike, providing a window into the exciting world of game development.  
 
 ## Version 0.1.0
-- added Block: <b>Analyst Ore</b>
+- added Block: ```analyst_ore```
 - added Block: <b>Catalyst Ore</b>
 - added Block: <b>Cracked Bone Block</b>
 ---
