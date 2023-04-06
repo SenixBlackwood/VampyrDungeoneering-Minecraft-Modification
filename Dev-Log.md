@@ -7,27 +7,27 @@ Overall, development-logs are a useful and informative resource for both develop
 
 ## Version 0.1.0
 - added Block: ```analyst_ore```
-- added Block: <b>Catalyst Ore</b>
-- added Block: <b>Cracked Bone Block</b>
+- added Block: ```catalyst_ore```
+- added Block: ```cracked_bone_block```
 ---
-- added Loottable: <b>Analyst Ore</b>
-- added Loottable: <b>Catalyst Ore</b>
+- added Loottable: ```analyst_ore```
+- added Loottable: ```catalyst_ore```
 ---
-- added Item: <b>Analyst</b>
-- added Item: <b>Analyst Dust</b>
-- added Item: <b>Analyst Shard</b>
-- added Item: <b>Bottle Of Ominous Blood</b>
-- added Item: <b>Bottled Ash</b>
-- added Item: <b>Catalyst</b>
-- added Item: <b>Catalyst Shard</b>
-- added Item: <b>Cracked Bone</b>
+- added Item: ```analyst```
+- added Item: ```analyst_dust```
+- added Item: ```analyst_shard```
+- added Item: ```bottle_of_ominous_blood```
+- added Item: ```bottled_ash```
+- added Item: ```catalyst```
+- added Item: ```catalyst_shard```
+- added Item: ```cracked_bone```
 ---
-- added Recipe: <b>Analyst Dust From Analyst</b>
-- added Recipe: <b>Analyst Shard From Blasting Raw Analyst Ore</b>
-- added Recipe: <b>Analyst Shard From Smelting Raw Analyst Ore</b>
-- added Recipe: <b>Catalyst Shard From Blasting Raw Catalyst Ore</b>
-- added Recipe: <b>Catalyst Shard From Smelting Raw Catalyst Ore</b>
-- added Recipe: <b>Cracked Bone from Smelting Bone</b>
+- added Recipe: ```Analyst Dust From Analyst```
+- added Recipe: ```Analyst Shard From Blasting Raw Analyst Ore```
+- added Recipe: ```Analyst Shard From Smelting Raw Analyst Ore```
+- added Recipe: ```Catalyst Shard From Blasting Raw Catalyst Ore```
+- added Recipe: ```Catalyst Shard From Smelting Raw Catalyst Ore```
+- added Recipe: ```Cracked Bone from Smelting Bone```
 
 ## Version 0.1.1
-- added 
+- added Structure: ``` ```
