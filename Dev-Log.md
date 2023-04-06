@@ -22,12 +22,33 @@ Overall, development-logs are a useful and informative resource for both develop
 - added Item: ```catalyst_shard```
 - added Item: ```cracked_bone```
 ---
-- added Recipe: ```Analyst Dust From Analyst```
-- added Recipe: ```Analyst Shard From Blasting Raw Analyst Ore```
-- added Recipe: ```Analyst Shard From Smelting Raw Analyst Ore```
-- added Recipe: ```Catalyst Shard From Blasting Raw Catalyst Ore```
-- added Recipe: ```Catalyst Shard From Smelting Raw Catalyst Ore```
-- added Recipe: ```Cracked Bone from Smelting Bone```
+- added Recipe: ```analyst_dust_from_analyst_shard```
+- added Recipe: ```analyst_shard_from_blasting_raw_analyst_ore```
+- added Recipe: ```analyst_shard_from_smelting_raw_analyst_ore```
+- added Recipe: ```catalyst_shard_from_blasting_raw_catalyst_ore```
+- added Recipe: ```catalyst_shard_from_smelting_raw_catalyst_ore```
+- added Recipe: ```cracked_bone_from_smelting_bone```
 
 ## Version 0.1.1
-- added Structure: ``` ```
+- added Structure: ```ancient_skull_1```
+- added Structure: ```ancient_skull_2```
+- added Structure: ```ancient_skull_3```
+- added Structure: ```ancient_skull_4```
+- added Structure: ```ancient_spine_1```
+- added Structure: ```ancient_spine_2```
+- added Structure: ```ancient_spine_3```
+- added Structure: ```ancient_spine_4```
+- added Structure: ```ancient_fossil_1```
+- added Structure: ```ancient_fossil_2```
+- added Structure: ```ancient_fossil_3```
+- added Structure: ```ancient_fossil_4```
+- added Structure: ```ancient_fossil_5```
+- added Structure: ```ancient_fossil_6```
+- added Structure: ```ancient_fossil_7```
+- added Structure: ```ancient_fossil_8```
+- added Structure: ```ancient_fossil_9```
+- added Structure: ```ancient_fossil_10```
+- added Structure: ```ancient_fossil_11```
+- added Structure: ```ancient_fossil_12```
+- added Structure: ```ancient_fossil_13```
+- added Structure: ```ancient_fossil_14```
