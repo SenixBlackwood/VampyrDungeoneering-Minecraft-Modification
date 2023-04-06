@@ -3,8 +3,7 @@ Development-logs are a common feature in game development that provide insight i
 They typically take the form of written or video updates that detail the progress made by the development team, as well as any new features, assets, or gameplay mechanics that have been added or changed.  
 Development-logs can be used as a way to communicate with the community and build hype and anticipation for a game or mod, as well as to solicit feedback and suggestions from players.  
 They can also be a valuable tool for developers to reflect on their progress and make adjustments to their development process as needed.  
-Overall, development-logs are a useful and informative resource for both developers and players alike, providing a window into the exciting world of game development.  
-
+Overall, development-logs are a useful and informative resource for both developers and players alike, providing a window into the exciting world of game development.
 ## Version 0.1.0
 - added Block: ```analyst_ore```
 - added Block: ```catalyst_ore```
@@ -30,7 +29,6 @@ Overall, development-logs are a useful and informative resource for both develop
 - added Recipe: ```catalyst_shard_from_blasting_raw_catalyst_ore```
 - added Recipe: ```catalyst_shard_from_smelting_raw_catalyst_ore```
 - added Recipe: ```cracked_bone_from_smelting_bone```
-
 ## Version 0.1.1
 - added Structure: ```ancient_skull_1```
 - added Structure: ```ancient_skull_2```
