@@ -8,6 +8,11 @@ Overall, development-logs are a useful and informative resource for both develop
 ## Version 0.1.0
 - added Advancement: ```ore_collector```
 - added Advancement: ```greater_collection```
+- added Advancement: ```an_interesting_ore``
+- added Advancement: ```a_catalyzing_effect```
+- added Advancement: ```a_dark_turn```
+- added Advancement: ```powdered_darkness```
+- added Advancement: ```one_way_to_go_blind```
 ---
 - added Block: ```analyst_ore```
 - added Block: ```catalyst_ore```
