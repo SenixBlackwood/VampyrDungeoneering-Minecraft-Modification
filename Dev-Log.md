@@ -6,9 +6,13 @@ They can also be a valuable tool for developers to reflect on their progress and
 Overall, development-logs are a useful and informative resource for both developers and players alike, providing a window into the exciting world of game development.
 
 ## Version 0.1.0
+```txt
+Version: 0.1.0
+Status:  Implemented
+```
 - added Advancement: ```ore_collector```
 - added Advancement: ```greater_collection```
-- added Advancement: ```an_interesting_ore``
+- added Advancement: ```an_interesting_ore```
 - added Advancement: ```a_catalyzing_effect```
 - added Advancement: ```a_dark_turn```
 - added Advancement: ```powdered_darkness```
@@ -37,6 +41,10 @@ Overall, development-logs are a useful and informative resource for both develop
 - added Recipe: ```catalyst_shard_from_smelting_raw_catalyst_ore```
 
 ## Version 0.2.0
+```txt
+Version: 0.2.0
+Status:  In Progress
+```
 - added Advancement: ```something_ancient```
 ---
 - added Block: ```cracked_bone_block```
@@ -46,36 +54,27 @@ Overall, development-logs are a useful and informative resource for both develop
 - added Recipe: ```cracked_bone_from_smelting_bone```
 - added Recipe: ```cracked_bone_block_from_cracked_bone```
 ---
-- added Structure: ```ancient_skull_1```
-- added Structure: ```ancient_skull_2```
-- added Structure: ```ancient_skull_3```
-- added Structure: ```ancient_skull_4```
-- added Structure: ```ancient_spine_1```
-- added Structure: ```ancient_spine_2```
-- added Structure: ```ancient_spine_3```
-- added Structure: ```ancient_spine_4```
-- added Structure: ```ancient_fossil_1```
-- added Structure: ```ancient_fossil_2```
-- added Structure: ```ancient_fossil_3```
-- added Structure: ```ancient_fossil_4```
-- added Structure: ```ancient_fossil_5```
-- added Structure: ```ancient_fossil_6```
-- added Structure: ```ancient_fossil_7```
-- added Structure: ```ancient_fossil_8```
-- added Structure: ```ancient_fossil_9```
-- added Structure: ```ancient_fossil_10```
-- added Structure: ```ancient_fossil_11```
-- added Structure: ```ancient_fossil_12```
-- added Structure: ```ancient_fossil_13```
-- added Structure: ```ancient_fossil_14```
+- adding Structure: ```ancient_skull```
+- adding Structure: ```ancient_spine```
+- adding Structure: ```ancient_fossil```
 
-Version 0.3.0
-- added Advancement: ```bottle_of_ominous_blood```
+## Version 0.3.0
+```txt
+Version: 0.3.0
+Status:  Planning Phase
+```
+- added Advancement: ```a_bit_dusty```
 ---
 - added Block: ```ash```
 - added Block: ```ash_carpet```
 ---
 - added Item: ```bottled_ash```
 
-Version 0.x.0
+## Version 0.X.0
+```txt
+Version: 0.X.0
+Status:  Planning Phase , Subject to Change
+```
+- added Block: ```travel_anchor```
+---
 - added Item: ```bottle_of_ominous_blood```
