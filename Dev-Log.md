@@ -46,12 +46,21 @@ Status:   Completed
 - added Loottable: ```deepslate_analyst_ore```
 - added Loottable: ```deepslate_catalyst_ore```
 ---
-- added Procedure: ```ore_xp_drop```
+- added Procedure: ```obtain_advancement_a_catalyzing_effect```
+- added Procedure: ```obtain_advancement_a_dark_turn```
+- added Procedure: ```obtain_advancement_an_interesting_ore```
+- added Procedure: ```obtain_advancement_dungeoneering```
+- added Procedure: ```obtain_advancement_greater_collection```
+- added Procedure: ```obtain_advancement_one_way_to_go_blind```
+- added Procedure: ```obtain_advancement_ore_collector```
+- added Procedure: ```obtain_advancement_powdered_darkness```
+- added Procedure: ```obtain_advancement_way_too_much_energy```
 - added Procedure: ```obtain_recipe_analyst_dust_from_analyst_shard```
 - added Procedure: ```obtain_recipe_analyst_shard_from_blasting_raw_analyst_ore```
 - added Procedure: ```obtain_recipe_analyst_shard_from_smelting_raw_analyst_ore```
 - added Procedure: ```obtain_recipe_catalyst_shard_from_blasting_raw_catalyst_ore```
 - added Procedure: ```obtain_recipe_catalyst_shard_from_smelting_raw_catalyst_ore```
+- added Procedure: ```ore_xp_drop```
 ---
 - added Recipe: ```analyst_dust_from_analyst_shard```
 - added Recipe: ```analyst_shard_from_blasting_raw_analyst_ore```
@@ -74,6 +83,10 @@ Status:   Completed
 - added Item: ```imbued_scroll```
 - added Item: ```scroll```
 ---
+- added Procedure: ```obtain_advancement_a_lot_to_read```
+- added Procedure: ```obtain_advancement_better_start_studying```
+- added Procedure: ```obtain_advancement_first_pages```
+- added Procedure: ```obtain_advancement_tour_guide```
 - added Procedure: ```obtain_recipe_almanac```
 - added Procedure: ```obtain_recipe_imbued_scroll```
 - added Procedure: ```obtain_recipe_scroll```
@@ -98,6 +111,7 @@ Status:  In Progress
 ---
 - added Item: ```cracked_bone```
 ---
+- added Procedure: ```obtain_advancement_something_ancient```
 - added Procedure: ```obtain_recipe_cracked_bone_from_cracked_bone_block```
 - added Procedure: ```obtain_recipe_cracked_bone_from_smelting_bone```
 - added Procedure: ```obtain_recipe_cracked_bone_block_from_cracked_bone```
@@ -123,6 +137,7 @@ Status:  Planned
 ---
 - added Item: ```bottled_ash```
 ---
+- added Procedure: ```obtain_advancement_a_bit_dusty```
 - added Procedure: ```ash_carpet_behaviour```
 - added Procedure: ```obtain_recipe_ash_block```
 - added Procedure: ```obtain_recipe_ash_carpet```
@@ -151,6 +166,8 @@ Status:   Planned
 - added Block: ```polished_darkstone_brick_slab```
 - added Block: ```polished_darkstone_brick_stair```
 - added Block: ```polished_darkstone_brick_wall```
+---
+- added Procedure: ```obtain_advancement_dark_remnants```
 
 ## Version 0.6.0
 ```txt
@@ -159,11 +176,14 @@ Status:   Planned
 ```
 <!-- Tree: TRAVEL ANCHOR -->
 - added Advancement: ```where_are_you_going```
-- added Advancement: ```going_even_further_beyond```
+- added Advancement: ```going_further_beyond```
 - added Advancement: ```post_office```
 ---
 - added Block: ```travel_anchor```
 ---
+- added Procedure: ```obtain_advancement_going_further_beyond```
+- added Procedure: ```obtain_advancement_post_office```
+- added Procedure: ```obtain_advancement_where_are_you_going```
 - added Procedure: ```change_blockstate_of_multiblock_structure_travel_anchor```
 - added Procedure: ```travel_anchor_on_right_click```
 - added Procedure: ```travel_anchor_destroyed_by_explosion```
@@ -179,6 +199,9 @@ Status:   Planned
 - added Advancement: ```master_of_the_forge```
 - added Advancement: ```a_new_era_of_magic```
 ---
+- added Procedure: ```obtain_advancement_a_new_era_of_magic```
+- added Procedure: ```obtain_advancement_first_concept```
+- added Procedure: ```obtain_advancement_master_forge```
 - added Procedure: ```check_for_correct_multiblock_structure```
 - added Procedure: ```change_blockstate_of_multiblock_structure_forge```
 - added Procedure: ```forge_on_right_click```
