@@ -24,7 +24,7 @@ Status:  Implemented
 - added Block: ```deepslate_analyst_ore```
 - added Block: ```deepslate_catalyst_ore```
 ---
-- added Creative Tab: ```vampyr_dungeoneering
+- added Creative Tab: ```vampyr_dungeoneering```
 ---
 - added Loottable: ```analyst_ore```
 - added Loottable: ```catalyst_ore```
@@ -46,7 +46,7 @@ Status:  Implemented
 - added Recipe: ```catalyst_shard_from_smelting_raw_catalyst_ore```
 ---
 - added Procedure: ```ore_xp_drop```
-- added Procedure: ```obtain_recipe_analyst_dust```
+- added Procedure: ```obtain_recipe_analyst_dust_crafting```
 - added Procedure: ```obtain_recipe_analyst_shard_blasting```
 - added Procedure: ```obtain_recipe_analyst_shard_smelting```
 - added Procedure: ```obtain_recipe_catalyst_shard_blasting```
@@ -65,9 +65,9 @@ Status:  In Progress
 - added Recipe: ```imbued_scroll```
 - added Recipe: ```scroll```
 ---
-- added Procedure: ```obtain_recipe_almanac```
-- added Procedure: ```obtain_recipe_imbued_scroll```
-- added Procedure: ```obtain_recipe_scroll```
+- added Procedure: ```obtain_recipe_almanac_crafting```
+- added Procedure: ```obtain_recipe_imbued_scroll_crafting```
+- added Procedure: ```obtain_recipe_scroll_crafting```
 
 ## Version 0.3.0
 ```txt
@@ -83,9 +83,12 @@ Status:  In Progress
 - added Recipe: ```cracked_bone_from_smelting_bone```
 - added Recipe: ```cracked_bone_block_from_cracked_bone```
 ---
-- adding Structure: ```ancient_skull```
-- adding Structure: ```ancient_spine```
-- adding Structure: ```ancient_fossil```
+- added Procedure: ```obtain_recipe_cracked_bone_smelting```
+- added Procedure: ```obtain_recipe_cracked_bone_block_crafting```
+---
+- added Structure: ```ancient_skull```
+- added Structure: ```ancient_spine```
+- added Structure: ```ancient_fossil```
 
 
 ## Version 0.4.0
