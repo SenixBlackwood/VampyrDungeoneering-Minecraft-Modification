@@ -5,7 +5,6 @@ For those who may be new to this mod, a development log is a record of the progr
 Those logs are designed to keep users informed about the latest changes and to help developers keep track of the progress as they work towards the final release.  
 So without further ado, let's dive into the details of our versions!
 
-
 ## Version 0.1.0
 ```txt
 Version:  0.1.0
@@ -189,11 +188,22 @@ Status:   Planned
 - added Advancement: ```master_of_the_forge```
 - added Advancement: ```a_new_era_of_magic```
 ---
-- added Procedure: ```obtain_advancement_a_new_era_of_magic```
-- added Procedure: ```obtain_advancement_first_concept```
-- added Procedure: ```obtain_advancement_master_forge```
+- added Block: ```forge_core```
+- added Block: ```forge_aperture```
+- added Block: ```imbued_bricks```
+---
 - added Procedure: ```check_for_correct_multiblock_structure```
 - added Procedure: ```change_blockstate_of_multiblock_structure_forge```
 - added Procedure: ```forge_on_right_click```
+- added Procedure: ```obtain_advancement_a_new_era_of_magic```
+- added Procedure: ```obtain_advancement_first_concept```
+- added Procedure: ```obtain_advancement_master_forge```
+- added Procedure: ```obtain_recipe_forge_core```
+- added Procedure: ```obtain_recipe_forge_aperture```
+- added Procedure: ```obtain_recipe_imbued_bricks```
+---
+- added Recipe: ```forge_core```
+- added Recipe: ```forge_aperture```
+- added Recipe: ```imbued_bricks```
 ---
 - added Structure: ```forge```
