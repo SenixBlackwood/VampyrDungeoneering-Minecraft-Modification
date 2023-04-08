@@ -1,9 +1,9 @@
 # Dev-Log
-Development-logs are a common feature in game development that provide insight into the creation process of a game or modification.  
-They typically take the form of written or video updates that detail the progress made by the development team, as well as any new features, assets, or gameplay mechanics that have been added or changed.  
-Development-logs can be used as a way to communicate with the community and build hype and anticipation for a game or mod, as well as to solicit feedback and suggestions from players.  
-They can also be a valuable tool for developers to reflect on their progress and make adjustments to their development process as needed.  
-Overall, development-logs are a useful and informative resource for both developers and players alike, providing a window into the exciting world of game development.
+Welcome to the development log of this mod!  
+In this log, I'll be sharing the details of all the new features and changes that have been made since the last version.  
+For those who may be new to this mod, a development log is a record of the progress made during the development of a software project, including new features, bug fixes, and other updates.  
+We use these logs to keep our users informed about the latest changes and to help us keep track of our progress as we work towards the final release.  
+So without further ado, let's dive into the details of our Versions!
 
 ## Version 0.1.0
 ```txt
