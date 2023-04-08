@@ -24,6 +24,8 @@ Status:  Implemented
 - added Block: ```deepslate_analyst_ore```
 - added Block: ```deepslate_catalyst_ore```
 ---
+- added Creative Tab: ```vampyr_dungeoneering
+---
 - added Loottable: ```analyst_ore```
 - added Loottable: ```catalyst_ore```
 - added Loottable: ```deepslate_analyst_ore```
