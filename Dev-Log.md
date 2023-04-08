@@ -2,8 +2,8 @@
 Welcome to the development log of this mod!  
 In this log, I'll be sharing the details of all the new features and changes that have been made since the last version.  
 For those who may be new to this mod, a development log is a record of the progress made during the development of a software project, including new features, bug fixes, and other updates.  
-We use these logs to keep our users informed about the latest changes and to help us keep track of our progress as we work towards the final release.  
-So without further ado, let's dive into the details of our Versions!
+Those logs are designed to keep users informed about the latest changes and to help developers keep track of the progress as they work towards the final release.  
+So without further ado, let's dive into the details of our versions!
 
 ## Version 0.1.0
 ```txt
