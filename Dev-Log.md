@@ -108,8 +108,8 @@ Status:  Planning Phase
 - added Recipe: ```ash_carpet```
 ---
 - added Procedure: ```ash_carpet_behaviour```
-- added Recipe: ```cracked_bone_from_smelting_bone```
-- added Recipe: ```cracked_bone_from_smelting_bone```
+- added Procedure: ```obtain_recipe_ash_block```
+- added Procedure: ```obtain_recipe_ash_carpet```
 
 ## Version 1.1.0
 ```txt
