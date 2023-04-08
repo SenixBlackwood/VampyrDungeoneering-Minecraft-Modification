@@ -5,16 +5,23 @@ For those who may be new to this mod, a development log is a record of the progr
 Those logs are designed to keep users informed about the latest changes and to help developers keep track of the progress as they work towards the final release.  
 So without further ado, let's dive into the details of our versions!
 
+
 ## Version 0.1.0
 ```txt
-Version: 0.1.0
-Status:  Implemented
+Version:  0.1.0
+Status:   Completed
 ```
+---
+<!-- Root -->
+- added Advancement: ```dungeoneering```
+<!-- Tree: ORE -->
 - added Advancement: ```ore_collector```
 - added Advancement: ```greater_collection```
+<!-- Tree: CATALYST -->
 - added Advancement: ```an_interesting_ore```
 - added Advancement: ```a_catalyzing_effect```
 - added Advancement: ```way_too_much_energy```
+<!-- Tree: ANALYST -->
 - added Advancement: ```a_dark_turn```
 - added Advancement: ```powdered_darkness```
 - added Advancement: ```one_way_to_go_blind```
@@ -26,11 +33,6 @@ Status:  Implemented
 ---
 - added Creative Tab: ```vampyr_dungeoneering```
 ---
-- added Loottable: ```analyst_ore```
-- added Loottable: ```catalyst_ore```
-- added Loottable: ```deepslate_analyst_ore```
-- added Loottable: ```deepslate_catalyst_ore```
----
 - added Item: ```analyst```
 - added Item: ```analyst_dust```
 - added Item: ```analyst_shard```
@@ -39,11 +41,10 @@ Status:  Implemented
 - added Item: ```raw_analyst_ore```
 - added Item: ```raw_catalyst_ore```
 ---
-- added Recipe: ```analyst_dust_from_analyst_shard```
-- added Recipe: ```analyst_shard_from_blasting_raw_analyst_ore```
-- added Recipe: ```analyst_shard_from_smelting_raw_analyst_ore```
-- added Recipe: ```catalyst_shard_from_blasting_raw_catalyst_ore```
-- added Recipe: ```catalyst_shard_from_smelting_raw_catalyst_ore```
+- added Loottable: ```analyst_ore```
+- added Loottable: ```catalyst_ore```
+- added Loottable: ```deepslate_analyst_ore```
+- added Loottable: ```deepslate_catalyst_ore```
 ---
 - added Procedure: ```ore_xp_drop```
 - added Procedure: ```obtain_recipe_analyst_dust_from_analyst_shard```
@@ -51,42 +52,59 @@ Status:  Implemented
 - added Procedure: ```obtain_recipe_analyst_shard_from_smelting_raw_analyst_ore```
 - added Procedure: ```obtain_recipe_catalyst_shard_from_blasting_raw_catalyst_ore```
 - added Procedure: ```obtain_recipe_catalyst_shard_from_smelting_raw_catalyst_ore```
+---
+- added Recipe: ```analyst_dust_from_analyst_shard```
+- added Recipe: ```analyst_shard_from_blasting_raw_analyst_ore```
+- added Recipe: ```analyst_shard_from_smelting_raw_analyst_ore```
+- added Recipe: ```catalyst_shard_from_blasting_raw_catalyst_ore```
+- added Recipe: ```catalyst_shard_from_smelting_raw_catalyst_ore```
 
 ## Version 0.2.0
 ```txt
-Version: 0.2.0
-Status:  In Progress
+Version:  0.2.0
+Status:   Completed
 ```
+<!-- Tree: ALMANAC -->
+- added Advancement: ```a_lot_to_read```
+- added Advancement: ```better_start_studying```
+- added Advancement: ```first_pages```
+- added Advancement: ```tour_guide```
+---
 - added Item: ```almanac```
 - added Item: ```imbued_scroll```
 - added Item: ```scroll```
+---
+- added Procedure: ```obtain_recipe_almanac```
+- added Procedure: ```obtain_recipe_imbued_scroll```
+- added Procedure: ```obtain_recipe_scroll```
 ---
 - added Recipe: ```almanac```
 - added Recipe: ```imbued_scroll```
 - added Recipe: ```scroll```
 ---
-- added Procedure: ```obtain_recipe_almanac```
-- added Procedure: ```obtain_recipe_imbued_scroll```
-- added Procedure: ```obtain_recipe_scroll```
+```txt
+Note: the almanac has no functionality yet, GUI will be implemented at a later point in time.
+```
 
 ## Version 0.3.0
 ```txt
 Version: 0.3.0
 Status:  In Progress
 ```
+<!-- Tree: DISCOVERY -->
 - added Advancement: ```something_ancient```
 ---
 - added Block: ```cracked_bone_block```
 ---
 - added Item: ```cracked_bone```
 ---
-- added Recipe: ```cracked_bone_from_cracked_bone_block```
-- added Recipe: ```cracked_bone_from_smelting_bone```
-- added Recipe: ```cracked_bone_block_from_cracked_bone```
----
 - added Procedure: ```obtain_recipe_cracked_bone_from_cracked_bone_block```
 - added Procedure: ```obtain_recipe_cracked_bone_from_smelting_bone```
 - added Procedure: ```obtain_recipe_cracked_bone_block_from_cracked_bone```
+---
+- added Recipe: ```cracked_bone_from_cracked_bone_block```
+- added Recipe: ```cracked_bone_from_smelting_bone```
+- added Recipe: ```cracked_bone_block_from_cracked_bone```
 ---
 - added Structure: ```ancient_skull```
 - added Structure: ```ancient_spine```
@@ -95,8 +113,9 @@ Status:  In Progress
 ## Version 0.4.0
 ```txt
 Version: 0.4.0
-Status:  Planning Phase
+Status:  Planned
 ```
+<!-- Tree: DISCOVERY -->
 - added Advancement: ```a_bit_dusty```
 ---
 - added Block: ```ash_block```
@@ -104,18 +123,64 @@ Status:  Planning Phase
 ---
 - added Item: ```bottled_ash```
 ---
-- added Recipe: ```ash_block```
-- added Recipe: ```ash_carpet```
----
 - added Procedure: ```ash_carpet_behaviour```
 - added Procedure: ```obtain_recipe_ash_block```
 - added Procedure: ```obtain_recipe_ash_carpet```
+---
+- added Recipe: ```ash_block```
+- added Recipe: ```ash_carpet```
 
-## Version 1.1.0
+## Version 0.5.0
 ```txt
-Version: 1.1.0
-Status:  Planning Phase , Subject to Change
+Version:  0.5.0
+Status:   Planned
 ```
+<!-- Tree: DISCOVERY -->
+- added Advancement: ```dark_remnants```
+---
+- added Block: ```cobbled_darkstone```
+- added Block: ```cobbled_darkstone_slab```
+- added Block: ```cobbled_darkstone_stair```
+- added Block: ```cobbled_darkstone_wall```
+- added Block: ```darkstone```
+- added Block: ```polished_darkstone```
+- added Block: ```polished_darstone_slab```
+- added Block: ```polished_darkstone_stair```
+- added Block: ```polished_dark_stone_wall```
+- added Block: ```polished_darkstone_bricks```
+- added Block: ```polished_darkstone_brick_slab```
+- added Block: ```polished_darkstone_brick_stair```
+- added Block: ```polished_darkstone_brick_wall```
+
+## Version 0.6.0
+```txt
+Version:  0.6.0
+Status:   Planned
+```
+<!-- Tree: TRAVEL ANCHOR -->
+- added Advancement: ```where_are_you_going```
+- added Advancement: ```going_even_further_beyond```
+- added Advancement: ```post_office```
+---
 - added Block: ```travel_anchor```
 ---
-- added Item: ```bottle_of_ominous_blood```
+- added Procedure: ```change_blockstate_of_multiblock_structure_travel_anchor```
+- added Procedure: ```travel_anchor_on_right_click```
+- added Procedure: ```travel_anchor_destroyed_by_explosion```
+- added Procedure: ```travel_anchor_destroyed_by_player```
+
+## Version 0.7.0
+```txt
+Version:  0.7.0
+Status:   Planned
+```
+<!-- Tree: FORGE -->
+- added Advancement: ```first_concept```
+- added Advancement: ```master_of_the_forge```
+- added Advancement: ```a_new_era_of_magic```
+---
+- added Procedure: ```check_for_correct_multiblock_structure```
+- added Procedure: ```change_blockstate_of_multiblock_structure_forge```
+- added Procedure: ```forge_on_right_click```
+---
+- added Structure: ```forge```
