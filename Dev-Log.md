@@ -12,16 +12,12 @@ Version:  0.1.0
 Status:   Completed
 ```
 ---
-<!-- Root -->
 - added Advancement: ```dungeoneering```
-<!-- Tree: ORE -->
 - added Advancement: ```ore_collector```
 - added Advancement: ```greater_collection```
-<!-- Tree: CATALYST -->
 - added Advancement: ```an_interesting_ore```
 - added Advancement: ```a_catalyzing_effect```
 - added Advancement: ```way_too_much_energy```
-<!-- Tree: ANALYST -->
 - added Advancement: ```a_dark_turn```
 - added Advancement: ```powdered_darkness```
 - added Advancement: ```one_way_to_go_blind```
@@ -73,7 +69,6 @@ Status:   Completed
 Version:  0.2.0
 Status:   Completed
 ```
-<!-- Tree: ALMANAC -->
 - added Advancement: ```a_lot_to_read```
 - added Advancement: ```better_start_studying```
 - added Advancement: ```first_pages```
@@ -104,7 +99,6 @@ Note: the almanac has no functionality yet, GUI will be implemented at a later p
 Version: 0.3.0
 Status:  In Progress
 ```
-<!-- Tree: DISCOVERY -->
 - added Advancement: ```something_ancient```
 ---
 - added Block: ```cracked_bone_block```
@@ -129,7 +123,6 @@ Status:  In Progress
 Version: 0.4.0
 Status:  Planned
 ```
-<!-- Tree: DISCOVERY -->
 - added Advancement: ```a_bit_dusty```
 ---
 - added Block: ```ash_block```
@@ -150,7 +143,6 @@ Status:  Planned
 Version:  0.5.0
 Status:   Planned
 ```
-<!-- Tree: DISCOVERY -->
 - added Advancement: ```dark_remnants```
 ---
 - added Block: ```cobbled_darkstone```
@@ -174,7 +166,6 @@ Status:   Planned
 Version:  0.6.0
 Status:   Planned
 ```
-<!-- Tree: TRAVEL ANCHOR -->
 - added Advancement: ```where_are_you_going```
 - added Advancement: ```going_further_beyond```
 - added Advancement: ```post_office```
@@ -194,7 +185,6 @@ Status:   Planned
 Version:  0.7.0
 Status:   Planned
 ```
-<!-- Tree: FORGE -->
 - added Advancement: ```first_concept```
 - added Advancement: ```master_of_the_forge```
 - added Advancement: ```a_new_era_of_magic```
