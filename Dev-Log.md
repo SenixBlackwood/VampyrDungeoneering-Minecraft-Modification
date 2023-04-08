@@ -80,6 +80,7 @@ Status:  In Progress
 ---
 - added Item: ```cracked_bone```
 ---
+- added Recipe: ```cracked_bone_from_cracked_bone_block```
 - added Recipe: ```cracked_bone_from_smelting_bone```
 - added Recipe: ```cracked_bone_block_from_cracked_bone```
 ---
