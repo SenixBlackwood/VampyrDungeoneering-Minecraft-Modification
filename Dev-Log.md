@@ -96,7 +96,7 @@ Note: the almanac has no functionality yet, GUI will be implemented at a later p
 ## Version 0.3.0
 ```txt
 Version: 0.3.0
-Status:  In Progress
+Status:  Work in Progress
 ```
 - added Advancement: ```something_ancient```
 ---
