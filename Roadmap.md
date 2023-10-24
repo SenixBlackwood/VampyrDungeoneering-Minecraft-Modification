@@ -3,9 +3,15 @@
 Latest Version: -
 Status: -
 ```
-## Version 0.1.x
+## Version 0.0.x
 ### Advancements
 - added: ```dungeoneering```
+---
+### Creative Tabs
+- added: ```vampyr_dungeoneering```
+
+## Version 0.1.x
+### Advancements
 - added: ```ore_collector```
 - added: ```greater_collection```
 - added: ```an_interesting_ore```
@@ -20,9 +26,6 @@ Status: -
 - added: ```catalyst_ore```
 - added: ```deepslate_analyst_ore```
 - added: ```deepslate_catalyst_ore```
----
-### Creative Tabs
-- added: ```vampyr_dungeoneering```
 ---
 ### Items
 - added: ```analyst```
