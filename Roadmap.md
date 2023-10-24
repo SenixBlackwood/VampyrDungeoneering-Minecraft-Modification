@@ -3,8 +3,7 @@
 Latest Version: -
 Status: -
 ```
-## Version 0.1.X
----
+## Version 0.1.x
 ### Advancements
 - added: ```dungeoneering```
 - added: ```ore_collector```
@@ -34,34 +33,37 @@ Status: -
 - added: ```raw_analyst_ore```
 - added: ```raw_catalyst_ore```
 ---
-- added Loottable: ```analyst_ore```
-- added Loottable: ```catalyst_ore```
-- added Loottable: ```deepslate_analyst_ore```
-- added Loottable: ```deepslate_catalyst_ore```
+### Loot Tables
+- added: ```analyst_ore```
+- added: ```catalyst_ore```
+- added: ```deepslate_analyst_ore```
+- added: ```deepslate_catalyst_ore```
 ---
-- added Procedure: ```obtain_advancement_a_catalyzing_effect```
-- added Procedure: ```obtain_advancement_a_dark_turn```
-- added Procedure: ```obtain_advancement_an_interesting_ore```
-- added Procedure: ```obtain_advancement_dungeoneering```
-- added Procedure: ```obtain_advancement_greater_collection```
-- added Procedure: ```obtain_advancement_one_way_to_go_blind```
-- added Procedure: ```obtain_advancement_ore_collector```
-- added Procedure: ```obtain_advancement_powdered_darkness```
-- added Procedure: ```obtain_advancement_way_too_much_energy```
-- added Procedure: ```obtain_recipe_analyst_dust_from_analyst_shard```
-- added Procedure: ```obtain_recipe_analyst_shard_from_blasting_raw_analyst_ore```
-- added Procedure: ```obtain_recipe_analyst_shard_from_smelting_raw_analyst_ore```
-- added Procedure: ```obtain_recipe_catalyst_shard_from_blasting_raw_catalyst_ore```
-- added Procedure: ```obtain_recipe_catalyst_shard_from_smelting_raw_catalyst_ore```
+### Procedure
+- added: ```obtain_advancement_a_catalyzing_effect```
+- added: ```obtain_advancement_a_dark_turn```
+- added: ```obtain_advancement_an_interesting_ore```
+- added: ```obtain_advancement_dungeoneering```
+- added: ```obtain_advancement_greater_collection```
+- added: ```obtain_advancement_one_way_to_go_blind```
+- added: ```obtain_advancement_ore_collector```
+- added: ```obtain_advancement_powdered_darkness```
+- added: ```obtain_advancement_way_too_much_energy```
+- added: ```obtain_recipe_analyst_dust_from_analyst_shard```
+- added: ```obtain_recipe_analyst_shard_from_blasting_raw_analyst_ore```
+- added: ```obtain_recipe_analyst_shard_from_smelting_raw_analyst_ore```
+- added: ```obtain_recipe_catalyst_shard_from_blasting_raw_catalyst_ore```
+- added: ```obtain_recipe_catalyst_shard_from_smelting_raw_catalyst_ore```
 - added Procedure: ```ore_xp_drop```
 ---
-- added Recipe: ```analyst_dust_from_analyst_shard```
-- added Recipe: ```analyst_shard_from_blasting_raw_analyst_ore```
-- added Recipe: ```analyst_shard_from_smelting_raw_analyst_ore```
-- added Recipe: ```catalyst_shard_from_blasting_raw_catalyst_ore```
-- added Recipe: ```catalyst_shard_from_smelting_raw_catalyst_ore```
+### Recipes
+- added: ```analyst_dust_from_analyst_shard```
+- added: ```analyst_shard_from_blasting_raw_analyst_ore```
+- added: ```analyst_shard_from_smelting_raw_analyst_ore```
+- added: ```catalyst_shard_from_blasting_raw_catalyst_ore```
+- added: ```catalyst_shard_from_smelting_raw_catalyst_ore```
 
-## Version 0.2.0
+## Version 0.2.x
 ```txt
 Version:  0.2.0
 Status:   Completed
