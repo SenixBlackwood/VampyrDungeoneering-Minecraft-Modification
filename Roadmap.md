@@ -3,7 +3,7 @@
 Latest Version: -
 Status: -
 ```
-## Version 0.0.x
+## Version 0.alpha.x
 ### Advancements
 - added: ```dungeoneering```
 ---
