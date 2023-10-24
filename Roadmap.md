@@ -1,35 +1,38 @@
 # Roadmap
-
-## Version 0.1.0
 ```txt
-Version:  0.1.0
-Status:   Completed
+Latest Version: -
+Status: -
 ```
+## Version 0.1.X
 ---
-- added Advancement: ```dungeoneering```
-- added Advancement: ```ore_collector```
-- added Advancement: ```greater_collection```
-- added Advancement: ```an_interesting_ore```
-- added Advancement: ```a_catalyzing_effect```
-- added Advancement: ```way_too_much_energy```
-- added Advancement: ```a_dark_turn```
-- added Advancement: ```powdered_darkness```
-- added Advancement: ```one_way_to_go_blind```
+### Advancements
+- added: ```dungeoneering```
+- added: ```ore_collector```
+- added: ```greater_collection```
+- added: ```an_interesting_ore```
+- added: ```a_catalyzing_effect```
+- added: ```way_too_much_energy```
+- added: ```a_dark_turn```
+- added: ```powdered_darkness```
+- added: ```one_way_to_go_blind```
 ---
-- added Block: ```analyst_ore```
-- added Block: ```catalyst_ore```
-- added Block: ```deepslate_analyst_ore```
-- added Block: ```deepslate_catalyst_ore```
+### Blocks
+- added: ```analyst_ore```
+- added: ```catalyst_ore```
+- added: ```deepslate_analyst_ore```
+- added: ```deepslate_catalyst_ore```
 ---
-- added Creative Tab: ```vampyr_dungeoneering```
+### Creative Tabs
+- added: ```vampyr_dungeoneering```
 ---
-- added Item: ```analyst```
-- added Item: ```analyst_dust```
-- added Item: ```analyst_shard```
-- added Item: ```catalyst```
-- added Item: ```catalyst_shard```
-- added Item: ```raw_analyst_ore```
-- added Item: ```raw_catalyst_ore```
+### Items
+- added: ```analyst```
+- added: ```analyst_dust```
+- added: ```analyst_shard```
+- added: ```catalyst```
+- added: ```catalyst_shard```
+- added: ```raw_analyst_ore```
+- added: ```raw_catalyst_ore```
 ---
 - added Loottable: ```analyst_ore```
 - added Loottable: ```catalyst_ore```
