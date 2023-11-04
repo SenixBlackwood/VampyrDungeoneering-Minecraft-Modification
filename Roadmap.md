@@ -6,9 +6,10 @@ Status: -
 ## Version 0.alpha.x
 ### Advancements
 - added: ```dungeoneering```
----
 ### Creative Tabs
 - added: ```vampyr_dungeoneering```
+
+---
 
 ## Version 0.1.x
 ### Advancements
@@ -20,7 +21,7 @@ Status: -
 - added: ```a_dark_turn```
 - added: ```powdered_darkness```
 - added: ```one_way_to_go_blind```
----
+
 ### Blocks
 - added: ```analyst_ore```
 - added: ```catalyst_ore```
@@ -42,7 +43,7 @@ Status: -
 - added: ```deepslate_analyst_ore```
 - added: ```deepslate_catalyst_ore```
 ---
-### Procedure
+### Procedures
 - added: ```obtain_advancement_a_catalyzing_effect```
 - added: ```obtain_advancement_a_dark_turn```
 - added: ```obtain_advancement_an_interesting_ore```
@@ -57,9 +58,9 @@ Status: -
 - added: ```obtain_recipe_analyst_shard_from_smelting_raw_analyst_ore```
 - added: ```obtain_recipe_catalyst_shard_from_blasting_raw_catalyst_ore```
 - added: ```obtain_recipe_catalyst_shard_from_smelting_raw_catalyst_ore```
-- added Procedure: ```ore_xp_drop```
+- added: ```ore_xp_drop```
 ---
-### Recipes
+### Recipess
 - added: ```analyst_dust_from_analyst_shard```
 - added: ```analyst_shard_from_blasting_raw_analyst_ore```
 - added: ```analyst_shard_from_smelting_raw_analyst_ore```
@@ -67,40 +68,32 @@ Status: -
 - added: ```catalyst_shard_from_smelting_raw_catalyst_ore```
 
 ## Version 0.2.x
-```txt
-Version:  0.2.0
-Status:   Completed
-```
-- added Advancement: ```a_lot_to_read```
-- added Advancement: ```better_start_studying```
-- added Advancement: ```first_pages```
-- added Advancement: ```tour_guide```
+### Advancements
+- added: ```a_lot_to_read```
+- added: ```better_start_studying```
+- added: ```first_pages```
+- added: ```tour_guide```
 ---
-- added Item: ```almanac```
-- added Item: ```imbued_scroll```
-- added Item: ```scroll```
+### Itmes
+- added: ```almanac```
+- added: ```imbued_scroll```
+- added: ```scroll```
 ---
-- added Procedure: ```obtain_advancement_a_lot_to_read```
-- added Procedure: ```obtain_advancement_better_start_studying```
-- added Procedure: ```obtain_advancement_first_pages```
-- added Procedure: ```obtain_advancement_tour_guide```
-- added Procedure: ```obtain_recipe_almanac```
-- added Procedure: ```obtain_recipe_imbued_scroll```
-- added Procedure: ```obtain_recipe_scroll```
+### Procedures
+- added: ```obtain_advancement_a_lot_to_read```
+- added: ```obtain_advancement_better_start_studying```
+- added: ```obtain_advancement_first_pages```
+- added: ```obtain_advancement_tour_guide```
+- added: ```obtain_recipe_almanac```
+- added: ```obtain_recipe_imbued_scroll```
+- added: ```obtain_recipe_scroll```
 ---
-- added Recipe: ```almanac```
-- added Recipe: ```imbued_scroll```
-- added Recipe: ```scroll```
+### Recipes
+- added: ```almanac```
+- added: ```imbued_scroll```
+- added: ```scroll```
 ---
-```txt
-Note: the almanac has no functionality yet, GUI will be implemented at a later point in time.
-```
-
 ## Version 0.3.0
-```txt
-Version: 0.3.0
-Status:  Work in Progress
-```
 - added Advancement: ```something_ancient```
 ---
 - added Block: ```cracked_bone_block```
