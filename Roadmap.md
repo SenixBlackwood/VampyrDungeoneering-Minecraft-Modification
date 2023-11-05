@@ -8,8 +8,8 @@ Status: -
 - added: ```dungeoneering```
 ### Creative Tabs
 - added: ```vampyr_dungeoneering```
-
----
+### Procedures
+- added: ```obtain_advancement_dungeoneering```
 
 ## Version 0.1.x
 ### Advancements
@@ -21,13 +21,11 @@ Status: -
 - added: ```a_dark_turn```
 - added: ```powdered_darkness```
 - added: ```one_way_to_go_blind```
-
 ### Blocks
 - added: ```analyst_ore```
 - added: ```catalyst_ore```
 - added: ```deepslate_analyst_ore```
 - added: ```deepslate_catalyst_ore```
----
 ### Items
 - added: ```analyst```
 - added: ```analyst_dust```
@@ -36,14 +34,13 @@ Status: -
 - added: ```catalyst_shard```
 - added: ```raw_analyst_ore```
 - added: ```raw_catalyst_ore```
----
 ### Loot Tables
 - added: ```analyst_ore```
 - added: ```catalyst_ore```
 - added: ```deepslate_analyst_ore```
 - added: ```deepslate_catalyst_ore```
----
 ### Procedures
+#### Obtain Advacement
 - added: ```obtain_advancement_a_catalyzing_effect```
 - added: ```obtain_advancement_a_dark_turn```
 - added: ```obtain_advancement_an_interesting_ore```
@@ -53,13 +50,14 @@ Status: -
 - added: ```obtain_advancement_ore_collector```
 - added: ```obtain_advancement_powdered_darkness```
 - added: ```obtain_advancement_way_too_much_energy```
+#### Obtain Recipe
 - added: ```obtain_recipe_analyst_dust_from_analyst_shard```
 - added: ```obtain_recipe_analyst_shard_from_blasting_raw_analyst_ore```
 - added: ```obtain_recipe_analyst_shard_from_smelting_raw_analyst_ore```
 - added: ```obtain_recipe_catalyst_shard_from_blasting_raw_catalyst_ore```
 - added: ```obtain_recipe_catalyst_shard_from_smelting_raw_catalyst_ore```
+#### World Generation
 - added: ```ore_xp_drop```
----
 ### Recipess
 - added: ```analyst_dust_from_analyst_shard```
 - added: ```analyst_shard_from_blasting_raw_analyst_ore```
@@ -73,133 +71,126 @@ Status: -
 - added: ```better_start_studying```
 - added: ```first_pages```
 - added: ```tour_guide```
----
 ### Itmes
 - added: ```almanac```
 - added: ```imbued_scroll```
 - added: ```scroll```
----
 ### Procedures
+#### Obtain Advancement
 - added: ```obtain_advancement_a_lot_to_read```
 - added: ```obtain_advancement_better_start_studying```
 - added: ```obtain_advancement_first_pages```
 - added: ```obtain_advancement_tour_guide```
+#### Obtain Recipe
 - added: ```obtain_recipe_almanac```
 - added: ```obtain_recipe_imbued_scroll```
 - added: ```obtain_recipe_scroll```
----
 ### Recipes
 - added: ```almanac```
 - added: ```imbued_scroll```
 - added: ```scroll```
----
+
 ## Version 0.3.0
-- added Advancement: ```something_ancient```
----
-- added Block: ```cracked_bone_block```
----
-- added Item: ```cracked_bone```
----
-- added Procedure: ```obtain_advancement_something_ancient```
-- added Procedure: ```obtain_recipe_cracked_bone_from_cracked_bone_block```
-- added Procedure: ```obtain_recipe_cracked_bone_from_smelting_bone```
-- added Procedure: ```obtain_recipe_cracked_bone_block_from_cracked_bone```
----
-- added Recipe: ```cracked_bone_from_cracked_bone_block```
-- added Recipe: ```cracked_bone_from_smelting_bone```
-- added Recipe: ```cracked_bone_block_from_cracked_bone```
----
-- added Structure: ```ancient_skull```
-- added Structure: ```ancient_spine```
-- added Structure: ```ancient_fossil```
+### Advancements
+- added: ```something_ancient```
+### Blocks
+- added: ```cracked_bone_block```
+### Items
+- added: ```cracked_bone```
+### Procedures
+#### Obtain Advancement
+- added: ```obtain_advancement_something_ancient```
+#### Obtain Recipe
+- added: ```obtain_recipe_cracked_bone_from_cracked_bone_block```
+- added: ```obtain_recipe_cracked_bone_from_smelting_bone```
+- added: ```obtain_recipe_cracked_bone_block_from_cracked_bone```
+### Recipes
+- added: ```cracked_bone_from_cracked_bone_block```
+- added: ```cracked_bone_from_smelting_bone```
+- added: ```cracked_bone_block_from_cracked_bone```
+### Structures
+- added: ```ancient_skull```
+- added: ```ancient_spine```
+- added: ```ancient_fossil```
 
 ## Version 0.4.0
-```txt
-Version: 0.4.0
-Status:  Planned
-```
-- added Advancement: ```a_bit_dusty```
----
-- added Block: ```ash_block```
-- added Block: ```ash_carpet```
----
-- added Item: ```bottled_ash```
----
-- added Procedure: ```obtain_advancement_a_bit_dusty```
-- added Procedure: ```ash_carpet_behaviour```
-- added Procedure: ```obtain_recipe_ash_block```
-- added Procedure: ```obtain_recipe_ash_carpet```
----
-- added Recipe: ```ash_block```
-- added Recipe: ```ash_carpet```
+### Advancements
+- added: ```a_bit_dusty```
+### Blocks
+- added: ```ash_block```
+- added: ```ash_carpet```
+### Items
+- added: ```bottled_ash```
+### Procedures
+#### Obtain Advancement
+- added: ```obtain_advancement_a_bit_dusty```
+#### Obtain Recipe
+- added: ```obtain_recipe_ash_block```
+- added: ```obtain_recipe_ash_carpet```
+#### World Generation
+- added: ```ash_carpet_behaviour```
+### Recipes
+- added: ```ash_block```
+- added: ```ash_carpet```
 
 ## Version 0.5.0
-```txt
-Version:  0.5.0
-Status:   Planned
-```
-- added Advancement: ```dark_remnants```
----
-- added Block: ```cobbled_darkstone```
-- added Block: ```cobbled_darkstone_slab```
-- added Block: ```cobbled_darkstone_stair```
-- added Block: ```cobbled_darkstone_wall```
-- added Block: ```darkstone```
-- added Block: ```polished_darkstone```
-- added Block: ```polished_darstone_slab```
-- added Block: ```polished_darkstone_stair```
-- added Block: ```polished_dark_stone_wall```
-- added Block: ```polished_darkstone_bricks```
-- added Block: ```polished_darkstone_brick_slab```
-- added Block: ```polished_darkstone_brick_stair```
-- added Block: ```polished_darkstone_brick_wall```
----
-- added Procedure: ```obtain_advancement_dark_remnants```
+### Advancements
+- added: ```dark_remnants```
+### Blocks
+- added: ```cobbled_darkstone```
+- added: ```cobbled_darkstone_slab```
+- added: ```cobbled_darkstone_stair```
+- added: ```cobbled_darkstone_wall```
+- added: ```darkstone```
+- added: ```polished_darkstone```
+- added: ```polished_darstone_slab```
+- added: ```polished_darkstone_stair```
+- added: ```polished_dark_stone_wall```
+- added: ```polished_darkstone_bricks```
+- added: ```polished_darkstone_brick_slab```
+- added: ```polished_darkstone_brick_stair```
+- added: ```polished_darkstone_brick_wall```
+### Procedures
+- added: ```obtain_advancement_dark_remnants```
 
 ## Version 0.6.0
-```txt
-Version:  0.6.0
-Status:   Planned
-```
-- added Advancement: ```where_are_you_going```
-- added Advancement: ```going_further_beyond```
-- added Advancement: ```post_office```
----
-- added Block: ```travel_anchor```
----
-- added Procedure: ```obtain_advancement_going_further_beyond```
-- added Procedure: ```obtain_advancement_post_office```
-- added Procedure: ```obtain_advancement_where_are_you_going```
-- added Procedure: ```change_blockstate_of_multiblock_structure_travel_anchor```
-- added Procedure: ```travel_anchor_on_right_click```
-- added Procedure: ```travel_anchor_destroyed_by_explosion```
-- added Procedure: ```travel_anchor_destroyed_by_player```
+### Advancements
+- added: ```where_are_you_going```
+- added: ```going_further_beyond```
+- added: ```post_office```
+### Blocks
+- added: ```travel_anchor```
+### Procedures
+- added: ```obtain_advancement_going_further_beyond```
+- added: ```obtain_advancement_post_office```
+- added: ```obtain_advancement_where_are_you_going```
+- added: ```change_blockstate_of_multiblock_structure_travel_anchor```
+- added: ```travel_anchor_on_right_click```
+- added: ```travel_anchor_destroyed_by_explosion```
+- added: ```travel_anchor_destroyed_by_player```
 
 ## Version 0.7.0
-```txt
-Version:  0.7.0
-Status:   Planned
-```
-- added Advancement: ```first_concept```
-- added Advancement: ```master_of_the_forge```
-- added Advancement: ```a_new_era_of_magic```
----
-- added Block: ```forge_core```
-- added Block: ```forge_aperture```
-- added Block: ```imbued_bricks```
----
-- added Procedure: ```check_for_correct_multiblock_structure```
-- added Procedure: ```change_blockstate_of_multiblock_structure_forge```
-- added Procedure: ```forge_on_right_click```
-- added Procedure: ```obtain_advancement_a_new_era_of_magic```
-- added Procedure: ```obtain_advancement_first_concept```
-- added Procedure: ```obtain_advancement_master_forge```
-- added Procedure: ```obtain_recipe_forge_core```
-- added Procedure: ```obtain_recipe_forge_aperture```
-- added Procedure: ```obtain_recipe_imbued_bricks```
----
-- added Recipe: ```forge_core```
-- added Recipe: ```forge_aperture```
-- added Recipe: ```imbued_bricks```
----
-- added Structure: ```forge```
+### Advancements
+- added: ```first_concept```
+- added: ```master_of_the_forge```
+- added: ```a_new_era_of_magic```
+### Blocks
+- added: ```forge_core```
+- added: ```forge_aperture```
+- added: ```imbued_bricks```
+### Procedures
+- added: ```check_for_correct_multiblock_structure```
+- added: ```change_blockstate_of_multiblock_structure_forge```
+- added: ```forge_on_right_click```
+- added: ```obtain_advancement_a_new_era_of_magic```
+- added: ```obtain_advancement_first_concept```
+- added: ```obtain_advancement_master_forge```
+- added: ```obtain_recipe_forge_core```
+- added: ```obtain_recipe_forge_aperture```
+- added: ```obtain_recipe_imbued_bricks```
+### Recipes
+- added: ```forge_core```
+- added: ```forge_aperture```
+- added: ```imbued_bricks```
+### Structures
+- added: ```forge```
