@@ -5,11 +5,11 @@ Status: In Progress
 ```
 ## Version 0.alpha
 ### Advancements
-- adds: ```dungeoneering```
+- added: ```dungeoneering```
 ### Creative Tabs
-- adds: ```vampyr_dungeoneering```
+- added: ```vampyr_dungeoneering```
 ### Procedures
-- adds: ```obtain_advancement_dungeoneering```
+- added: ```obtain_advancement_dungeoneering```
 
 ## Version 0.1
 ### Advancements
