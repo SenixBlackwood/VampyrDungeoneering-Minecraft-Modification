@@ -1,9 +1,9 @@
 # Roadmap
 ```txt
-Latest Version: -
-Status: -
+Latest Version: 0.alpha
+Status: In Progress
 ```
-## Version 0.alpha.x
+## Version 0.alpha
 ### Advancements
 - adds: ```dungeoneering```
 ### Creative Tabs
@@ -11,7 +11,7 @@ Status: -
 ### Procedures
 - adds: ```obtain_advancement_dungeoneering```
 
-## Version 0.1.x
+## Version 0.1
 ### Advancements
 - adds: ```ore_collector```
 - adds: ```greater_collection```
@@ -67,7 +67,7 @@ Status: -
 - adds: ```catalyst_shard_from_blasting_raw_catalyst_ore```
 - adds: ```catalyst_shard_from_smelting_raw_catalyst_ore```
 
-## Version 0.2.x
+## Version 0.2
 ### Advancements
 - adds: ```a_lot_to_read```
 - adds: ```better_start_studying```
@@ -92,7 +92,7 @@ Status: -
 - adds: ```imbued_scroll```
 - adds: ```scroll```
 
-## Version 0.3.0
+## Version 0.3
 ### Advancements
 - adds: ```something_ancient```
 ### Blocks
@@ -115,7 +115,7 @@ Status: -
 - adds: ```ancient_spine```
 - adds: ```ancient_fossil```
 
-## Version 0.4.0
+## Version 0.4
 ### Advancements
 - adds: ```a_bit_dusty```
 ### Blocks
@@ -135,7 +135,7 @@ Status: -
 - adds: ```ash_block```
 - adds: ```ash_carpet```
 
-## Version 0.5.0
+## Version 0.5
 ### Advancements
 - adds: ```dark_remnants```
 ### Blocks
@@ -155,7 +155,7 @@ Status: -
 ### Procedures
 - adds: ```obtain_advancement_dark_remnants```
 
-## Version 0.6.0
+## Version 0.6
 ### Advancements
 - adds: ```where_are_you_going```
 - adds: ```going_further_beyond```
@@ -171,7 +171,7 @@ Status: -
 - adds: ```travel_anchor_destroyed_by_explosion```
 - adds: ```travel_anchor_destroyed_by_player```
 
-## Version 0.7.0
+## Version 0.7
 ### Advancements
 - adds: ```first_concept```
 - adds: ```master_of_the_forge```
